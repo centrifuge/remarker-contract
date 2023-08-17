@@ -7,9 +7,11 @@ Inspired by [`system.remark`](https://github.com/paritytech/substrate/blob/maste
 ## Remarker contract addresses
 | Chain   | Address |
 | ------- | ------- |
-| Mainnet | [0x075f37451e7a4877f083aa070dd47a6969af2ced](https://etherscan.io/address/0x075f37451e7a4877f083aa070dd47a6969af2ced) |
-| Goerli | [0x6E395641087a4938861d7ada05411e3146175F58](https://goerli.etherscan.io/address/0x6E395641087a4938861d7ada05411e3146175F58) |
-| Moonbase Alpha | [0x813b91f743bf605fa622ddfa2d591b2510640e51](https://moonbase.moonscan.io/address/0x813b91f743bf605fa622ddfa2d591b2510640e51) |
+| Ethereum Mainnet | [0x3E39db43035981c2C31F7Ffa4392f25231bE4477](https://etherscan.io/address/0x3e39db43035981c2c31f7ffa4392f25231be4477) |
+| Ethereum Goerli | [0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf](https://goerli.etherscan.io/address/0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf) |
+| Avalanche Fuji | [0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf](https://testnet.snowtrace.io/address/0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf) |
+| Arbitrum Goerli | [0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf](https://goerli.arbiscan.io/address/0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf) |
+| Moonbase Alpha | [0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf](https://moonbase.moonscan.io/address/0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf) |
 
 ## Interface
 ```solidity
