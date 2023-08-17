@@ -8,8 +8,9 @@ Inspired by [`system.remark`](https://github.com/paritytech/substrate/blob/maste
 | Chain   | Address |
 | ------- | ------- |
 | Ethereum Mainnet | [0x3E39db43035981c2C31F7Ffa4392f25231bE4477](https://etherscan.io/address/0x3E39db43035981c2C31F7Ffa4392f25231bE4477) |
-| Arbitrum One | [0x3E39db43035981c2C31F7Ffa4392f25231bE4477](https://basescan.org/address/0x3E39db43035981c2C31F7Ffa4392f25231bE4477) |
+| Arbitrum One | [0x3E39db43035981c2C31F7Ffa4392f25231bE4477](https://arbiscan.io/address/0x3E39db43035981c2C31F7Ffa4392f25231bE4477) |
 | Base | [0x3E39db43035981c2C31F7Ffa4392f25231bE4477](https://basescan.org/address/0x3E39db43035981c2C31F7Ffa4392f25231bE4477) |
+| Gnosis | [0x3E39db43035981c2C31F7Ffa4392f25231bE4477](https://gnosisscan.io/address/0x3E39db43035981c2C31F7Ffa4392f25231bE4477) |
 
 ## Remarker contract addresses (testnets)
 | Chain   | Address |
