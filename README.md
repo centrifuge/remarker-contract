@@ -12,6 +12,7 @@ Inspired by [`system.remark`](https://github.com/paritytech/substrate/blob/maste
 | Avalanche Fuji | [0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf](https://testnet.snowtrace.io/address/0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf) |
 | Arbitrum Goerli | [0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf](https://goerli.arbiscan.io/address/0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf) |
 | Moonbase Alpha | [0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf](https://moonbase.moonscan.io/address/0xe5E49A924FA465Aa5D4c03f0Bf5b65f6d8978Eaf) |
+| Base Goerli | [0x3E39db43035981c2C31F7Ffa4392f25231bE4477](https://goerli.basescan.org/address/0x3E39db43035981c2C31F7Ffa4392f25231bE4477) |
 
 ## Interface
 ```solidity
